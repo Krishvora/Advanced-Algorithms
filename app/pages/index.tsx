@@ -9,11 +9,6 @@ const Home: NextPage = () => {
       <h1 className={styles.title}>Median Finding Algorithm</h1>
 
       <Console />
-      <section className={styles.footer}>
-        <p className={styles.description}>
-          CS 601 Team 4 - Yeh-Tarn Su, Krish Vora
-        </p>
-      </section>
     </div>
   );
 };
