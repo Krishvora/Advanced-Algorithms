@@ -1,0 +1,4 @@
+from tests.test_linear_median_finding import TestLinearMedianFinding
+from tests.test_lambda_functions import TestLambdaFunctions
+from tests.test_randomized_median_finding import TestRandomizedMedianFinding
+from tests.test_quick_sort import TestQuickSort
